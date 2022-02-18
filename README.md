@@ -16,9 +16,9 @@
 <br>
 
 
-🏡 Brazilian
-💻 Software Engineer at John Deere Financial
-❤️ Python
+🏡 Brazilian <br>
+💻 Software Engineer at John Deere Financial <br>
+❤️ Python <br>
 
 
 <p align='center'>
